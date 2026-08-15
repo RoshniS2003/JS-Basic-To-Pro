@@ -46,4 +46,4 @@ console.log(str9);
 
 // possible using replace method
 let str10="Roshni"
-console.log(str10.replace("hni","Sa"));
+console.log(str0.replace("hni","Sa"));
